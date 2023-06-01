@@ -58,7 +58,7 @@ Which version to use?
 | v9      | v9       | 9.7.2     | 9.11.14    |
 | v8      | v8       | 0.16.0    | 0.9.3      |
 
-## 🔧 Installation
+## 🔧 การติดตั้ง Installation
 
 The project has support `ng add` yet.
 
